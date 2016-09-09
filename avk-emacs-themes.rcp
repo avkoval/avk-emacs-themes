@@ -1,0 +1,5 @@
+(:name avk-emacs-themes
+       :description "AVK emacs themes"
+       :type git
+       :prepare (add-to-list 'custom-theme-load-path default-directory)
+       :url "https://github.com/avkoval/avk-emacs-themes")

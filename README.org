@@ -1,0 +1,12 @@
+* avk-emacs themes
+
+Contrary to popular approach of carefully selecting colors based on some idea,
+the  provided themes  were  made by  a  few years  of  trying different  color
+combinations, out of random, just to fit my personal preference.
+
+So far this  worked well, at least for  me, and my own sense  of color. Themes
+provide 3  basic setups: 2  variations of dark  background, and one  for light
+(suitable for sunny days).
+
+I expect to improve those along the time, so please don't hesisteate to notify
+me if you see any problem colors or missing package colors defined.
