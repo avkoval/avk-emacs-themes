@@ -17,8 +17,7 @@
 ;;; Code:
 
 
-(deftheme avk-darkblue-yellow
-  "DarkBlue background + yellow font foreground theme from AVK")
+(deftheme avk-darkblue-yellow "DarkBlue background + yellow font foreground theme from AVK")
 
 (let ((class '((class color) (min-colors 89))))
   (custom-theme-set-faces
@@ -190,5 +189,5 @@
       'custom-theme-load-path
       (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide 'avk-darkblue-yellow)
+(provide-theme 'avk-darkblue-yellow)
 ;;; avk-darkblue-yellow-theme.el ends here

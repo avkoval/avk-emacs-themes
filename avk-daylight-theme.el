@@ -15,8 +15,7 @@
 
 ;;; Code:
 
-(deftheme avk-daylight
-  "White/Blue theme from AVK")
+(deftheme avk-daylight "White/Blue theme from AVK")
 
 (let ((class '((class color) (min-colors 89))))
   (custom-theme-set-faces
@@ -173,5 +172,5 @@
       'custom-theme-load-path
       (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide 'avk-daylight-theme)
+(provide-theme 'avk-daylight)
 ;;; avk-daylight-theme.el ends here
