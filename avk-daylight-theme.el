@@ -100,6 +100,7 @@
    `(notmuch-search-count ((t (:inherit default :foreground "yellow3"))))
    `(notmuch-search-date ((t (:inherit default :foreground "SpringGreen4"))))
    `(notmuch-search-subject ((t (:foreground "dark turquoise"))))
+   `(notmuch-search-unread-face ((t (:weight bold))))
    `(org-agenda-clocking ((t (:background "lavender" :foreground "medium violet red" :weight bold))) t)
    `(org-agenda-date ((t (:foreground "dark green"))) t)
    `(org-agenda-date-today ((t (:foreground "dark green" :height 1.6 :slant normal :weight bold))) t)

@@ -110,7 +110,7 @@
    `(notmuch-search-count ((t (:inherit default :foreground "yellow3"))))
    `(notmuch-search-date ((t (:inherit default :foreground "SpringGreen4"))))
    `(notmuch-search-subject ((t (:foreground "dark turquoise"))))
-   `(notmuch-search-unread-face ((t (:foreground "green yellow"))))
+   `(notmuch-search-unread-face ((t (:weight bold))))
    `(org-agenda-clocking ((t (:inherit secondary-selection))) t)
    `(org-agenda-done ((t (:foreground "dark gray" :strike-through "dark slate blue"))))
    `(org-agenda-structure ((t (:height 1.4 :foreground "light sky blue"))))
