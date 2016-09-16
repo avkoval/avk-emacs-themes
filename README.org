@@ -10,3 +10,16 @@ provide 3  basic setups: 2  variations of dark  background, and one  for light
 
 I expect to improve those along the time, so please don't hesisteate to notify
 me if you see any problem colors or missing package colors defined.
+* screenshots
+
+Screenshots are available on main emacs themes site.
+
+** daylight
+https://emacsthemes.com/themes/avk-daylight.html
+
+** darkblue-yellow
+https://emacsthemes.com/themes/avk-darkblue-yellow.html
+
+** darkblue-white
+
+https://emacsthemes.com/themes/avk-darkblue-white.html
