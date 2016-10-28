@@ -4,7 +4,7 @@
 
 ;; Author: Alex V. Koval <alex@koval.kharkov.ua>
 ;; Maintainer: Alex V. Koval <alex@koval.kharkov.ua>
-;; URL: https://avkoval@bitbucket.org/avkoval/avk-emacs-themes
+;; Homepage: https://github.com/avkoval/avk-emacs-themes
 ;; Created: 14th June 2015
 ;; Version: 0.2
 ;; Keywords: theme
