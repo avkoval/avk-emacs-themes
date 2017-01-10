@@ -88,7 +88,7 @@
    `(message-header-subject ((((class color) (background dark)) (:foreground "yellow2"))))
    `(message-separator ((((class color) (background dark)) (:foreground "thistle"))))
    `(minibuffer-prompt ((t (:foreground "dark cyan" :weight bold))))
-   `(mode-line ((t (:background "#d0e5cc" :foreground "black" :inverse-video nil :slant normal :weight normal :width condensed :box (:line-width -1 :color nil :style released-button)))))
+   `(mode-line ((t (:background "#d0e5cc" :foreground "black" :inverse-video nil :slant normal :weight normal :box (:line-width -1 :color nil :style released-button)))))
    `(mode-line-inactive ((t (:weight light :box (:line-width -1 :color "grey75" :style nil)  :foreground "black" :background "SlateGray2" :inherit  (mode-line)))))
    `(mode-line-read-only-face ((t (:foreground "Firebrick" :weight bold))))
    `(mode-line-filename-face ((t (:foreground "dark green" :weight bold))))
@@ -162,6 +162,7 @@
    `(whitespace-trailing ((t (:background "gray81" :weight bold))))
    `(widget-button ((t (:foreground "dark blue" :weight bold :underline (:color "gray75" :style line)))))
    `(fringe ((t (:background "#add8e6"))))
+   `(highlight-indentation-face ((t (:background "gray94"))))
 ))
 
 (provide-theme 'avk-daylight)

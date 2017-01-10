@@ -180,8 +180,9 @@
    `(ediff-odd-diff-Ancestor ((t (:background "gray40" :foreground "cyan3"))))
    `(ediff-odd-diff-B ((t (:background "light grey" :foreground "Black"))))
    `(ediff-odd-diff-C ((t (:background "Grey" :foreground "White"))))
-
-))
+   `(highlight-indentation-face ((t (:background "#202335"))))
+   )
+  )
 
 ;;;###autoload
 (when (and load-file-name (boundp 'custom-theme-load-path))
