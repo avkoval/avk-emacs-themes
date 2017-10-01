@@ -84,7 +84,7 @@
    `(jabber-chat-prompt-local ((t (:inherit org-level-4))))
    `(jabber-roster-user-online ((t (:inherit font-lock-string-face))))
    `(lazy-highlight ((((class color) (min-colors 88) (background dark)) (:background "darkgreen" :foreground "black"))))
-   `(linum ((t (:foreground "gray50" :height 0.9 :background "#16103a" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :weight normal))))
+   `(linum ((t (:foreground "DeepSkyBlue3" :height 0.9 :background "#16103a" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :weight normal))))
    `(match ((((class color) (min-colors 88) (background dark)) (:background "SlateBlue4" :foreground "white"))))
    `(message-cited-text ((((class color) (background dark)) (:foreground "SandyBrown"))))
    `(message-header-name ((((class color) (background dark)) (:foreground "DarkGrey"))))
