@@ -12,6 +12,22 @@
 ;;; Commentary:
 ;;
 ;; Alex V. Koval avk-darkblue-white theme
+;;
+;; Dark contrast theme. Getting the right balance for dark theme contast was as challange
+;; as most of popular themes mentioned low contrast (e.g. solarized family and some others)
+;; and other were too contast (e.g. cyperpunk).
+;;
+;; Also, I wanted something on a dark blue background and were unable to find it.
+;;
+;; So far, I ended up creaating this themes, and using it almost on daily basis.
+;; I can also recommend to look into alternatives as:
+;;
+;; - base16-circus
+;; - base16-materia
+;; - some other base16-* dark themes
+;; - doom-* themes (doom-vibrant, doom-molokai)
+;; - warm-night
+;; - moe-dark
 
 
 ;;; Code:
@@ -30,7 +46,6 @@
    `(ahg-invisible-face ((default (:foreground "gray23")) (nil nil)))
    `(anything-ff-directory ((t (:inherit dired-directory))))
    `(anything-header ((t (:inherit font-lock-function-name-face))))
-   `(bm-face ((t (:background "#460000" :foreground "white" :box (:line-width 2 :color "#460000" :style released-button) :weight bold))))
    `(comint-highlight-input ((t (:foreground "LightSkyBlue1" :weight bold))))
    `(compilation-error ((t (:inherit font-lock-warning-face))))
    `(compilation-line-number ((t (:foreground "orange red" :weight bold))))
@@ -85,6 +100,8 @@
    `(jabber-roster-user-online ((t (:inherit font-lock-string-face))))
    `(lazy-highlight ((((class color) (min-colors 88) (background dark)) (:background "darkgreen" :foreground "black"))))
    `(linum ((t (:foreground "gray50" :height 0.9 :background "#16103a" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :weight normal))))
+   `(line-number ((t (:foreground "#655d5d" :height 0.9 :background "#292424" :inverse-video nil :box nil :strike-through nil :overline nil :underline nil :weight normal))))
+   `(line-number-current-line ((t (:inherit line-number :inverse-video t :foreground "gray40"))))
    `(match ((((class color) (min-colors 88) (background dark)) (:background "SlateBlue4" :foreground "white"))))
    `(message-cited-text ((((class color) (background dark)) (:foreground "SandyBrown"))))
    `(message-header-name ((((class color) (background dark)) (:foreground "DarkGrey"))))
