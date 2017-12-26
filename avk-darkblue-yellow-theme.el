@@ -198,6 +198,7 @@
    `(ediff-odd-diff-B ((t (:background "light grey" :foreground "Black"))))
    `(ediff-odd-diff-C ((t (:background "Grey" :foreground "White"))))
    `(highlight-indentation-face ((t (:background "#202335"))))
+   `(ledger-occur-xact-face ((t (:background "gray5"))))
    )
   )
 
