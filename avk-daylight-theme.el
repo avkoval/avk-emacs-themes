@@ -162,7 +162,7 @@
    `(shadow ((t (:foreground "RosyBrown4"))))
    `(show-paren-match ((t (:background "DeepSkyBlue1" :foreground "white"))))
    `(show-paren-mismatch ((t (:background "red" :foreground "white"))))
-   `(smerge-refined-change ((t (:background "midnight blue"))))
+   `(smerge-refined-change ((t (:background "moccasin"))))
    `(tabbar-default ((t (:inherit variable-pitch :background "gray75" :foreground "MidNightBlue" :family "verdana"))))
    `(tabbar-selected ((t (:inherit tabbar-default :foreground "red4" :family "verdana"))))
    `(tooltip ((((class color)) (:inherit variable-pitch :background "IndianRed1" :foreground "black"))))
