@@ -142,7 +142,7 @@
    `(org-mode-line-clock ((t (:inherit modeline :foreground "dark blue" :slant oblique :height 1.1))) t)
    `(org-scheduled ((t (:foreground "dark magenta" :slant italic))))
    `(org-scheduled-today ((t (:foreground "RoyalBlue4"))))
-   `(org-scheduled-previously ((t (:foreground "firebrick4" :slant italic))))
+   `(org-scheduled-previously ((t (:foreground "gray50" :slant italic))))
    `(org-agenda-structure ((t (:foreground "VioletRed4" :height 1.2 :slant italic))))
    `(org-checkbox ((t (:inherit font-lock-function-name-face))))
    `(org-tag ((t (:foreground "gray70" :weight bold))))
