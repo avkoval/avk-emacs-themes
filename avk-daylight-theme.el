@@ -124,6 +124,7 @@
    `(org-agenda-date-weekend ((t (:inherit org-agenda-date :background "lemon chiffon" :weight bold))) t)
    `(org-agenda-done ((t (:inherit font-lock-comment-face))))
    `(org-archived ((t (:foreground "LemonChiffon4"))))
+   `(org-code ((t (:foreground "firebrick2"))))
    `(org-column ((t (:inherit default))))
    `(org-column-title ((t (:foreground "dark magenta" :background "gray85" :underline t :weight bold :inherit default))))
    `(org-date ((t (:background "#fdfdfd" :foreground "slate blue" :underline t))))
