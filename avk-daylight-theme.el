@@ -149,6 +149,7 @@
    `(org-todo ((t (:weight bold :foreground "dark green" :background "azure2"))))
    `(org-upcoming-deadline ((((class color) (min-colors 88) (background dark)) (:foreground "indian red"))))
    `(org-warning ((t (:foreground "hot pink" :weight bold))))
+   `(org-habit-overdue-face ((t (:foreground "#f9372d" :background "Seashell1" :weight bold))))
    `(outline-2 ((t (:foreground "saddle brown"))))
    `(outline-3 ((t (:foreground "brown"))))
    `(outline-6 ((t (:foreground "royal blue"))))
